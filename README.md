@@ -2,7 +2,7 @@ Geekcomputers: <q><i>Here is some more detailed information about the scripts I 
 
 In the scripts the comments etc are lined up correctly when they are viewed in SciTE Editor.  This is what I use to code AutoIt scripts.
 
-clipboard_logger.au3 - This code was written by Rob Fuller (a.k.a Mubix from Room362.com) on the Hak5 podcast.  This is like a keyboard logger but for the clipboard.  Anything that is copied to the clipboard will be tracked into a logfile.  I have tried this with some password managers as well and it still captures the password.
+<a href="https://github.com/JeanPaulLucien/AutoIt/blob/master/clipboard_logger.au3">clipboard_logger.au3</a> - This code was written by Rob Fuller (a.k.a Mubix from Room362.com) on the Hak5 podcast. This is like a keyboard logger but for the clipboard. Anything that is copied to the clipboard will be tracked into a logfile. I have tried this with some password managers as well and it still captures the password.
 
 environment.au3 - This is what I run when I get a new PC, so I will have all the registry keys and folders I need for my workflow.
 
